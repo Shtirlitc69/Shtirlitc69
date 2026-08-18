@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Shtirlitc69/Shtirlitc69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Shtirlitc69)](https://github.com/stats-organization/github-stats-extended)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
