@@ -80,6 +80,12 @@
 </tr>
 </table>
 
+## 📢 Новости проектов и личной жизни
+
+<p align="center">
+  <a href="https://t.me/Shtirlits_Git"><img src="https://img.shields.io/badge/Telegram-%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
 <br>
 
 <p align="center">
