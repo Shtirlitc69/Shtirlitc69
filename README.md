@@ -12,7 +12,6 @@
 
 ## 👋 Обо мне
 
-- 🎓 Учусь в **ВГТУ** (Воронеж), направление **«Технологии искусственного интеллекта»**
 - 🎯 Цель — стать **AI-инженером / Prompt-инженером**
 - 💻 Пишу на **Python** и **C++**
 - ⚙️ Работал с **Django** и **FastAPI**
@@ -60,9 +59,6 @@
 <table>
 <tr>
 <td width="33%" valign="top">
-
-[![VSTU-attendance](https://github-stats-extended.vercel.app/api/pin/?username=Shtirlitc69&repo=VSTU-attendance&theme=tokyonight&hide_border=true)](https://github.com/Shtirlitc69/VSTU-attendance)
-Бот для автоматизации учёта посещаемости в ВГТУ
 
 </td>
 <td width="33%" valign="top">
