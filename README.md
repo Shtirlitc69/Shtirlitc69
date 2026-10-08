@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%D0%B2+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B5+%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F;Prompt+Engineer;Python+%26+C%2B%2B+developer;Django+%2F+FastAPI" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://t.me/Shtirlits_ai"><img src="https://img.shields.io/badge/Telegram-@Shtirlits__ai-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Discord-shtyrlits-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <a href="https://gitverse.ru/Shtirlitc"><img src="https://img.shields.io/badge/GitVerse-Shtirlitc-0057B7?style=for-the-badge&logo=git&logoColor=white" /></a>
-</p>
-
 ## 👋 Обо мне
 
 - 🎯 Цель — стать **AI-инженером / Prompt-инженером**
